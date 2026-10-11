@@ -175,11 +175,7 @@ Open your browser and navigate to `http://localhost:5173`.
 - [x] Searchable, filterable transaction table with slide-over audit drawer
 - [x] Security alert incident feed with mock disclaimers
 - [x] Loading, error, and offline fallback states
-- [x] Professional Stage 2 placeholder architecture screens
-
----
-
-## 10. Planned Stage 2 Features
+- [x] Professional Stage 2 placeholder architecture scree
 
 - **Cross-Bank Graph Neural Networks (GraphSAGE / GNN)**:
   - Distributed multi-hop graph topology representation.
